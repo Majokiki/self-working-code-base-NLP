@@ -2,31 +2,31 @@
 
 Divided into following parts:
 
-## Corpus
-### 中文语料
+## 1. Corpus
+### 1.1. 中文语料
 See [this](./corpus/zh/README.md)
 
 
-## NLP Tasks
+## 2. NLP Tasks
 
-### classic paper
-#### word2vec
-#### doc2vec
+### 2.1. classic paper
+#### 2.1.1. word2vec
+#### 2.1.2. doc2vec
 
 
-### specific task
-#### sentence classification
+### 2.2. specific task
+#### 2.2.1. sentence classification
 1. SpeakerRecognition-text
  - TextCNN
  - SequentialCNNBiSLTM 
 
-#### sentence embbedding
+#### 2.2.2. sentence embbedding
 1. SimBert
 2. SimCSE
 
 
-### composite task
-### spell error correction
+### 2.3. composite task
+### 2.3.1. spell error correction
 
 
 #### working freamwork
